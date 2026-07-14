@@ -1,0 +1,22 @@
+Settlement Standard Operating Procedure
+
+Step 1
+Validate Trade Details
+
+Step 2
+Check Customer
+
+Step 3
+Allocate Owner
+
+Step 4
+Verify Settlement Date
+
+Step 5
+Validate Counterparty
+
+Step 6
+Execute Settlement
+
+Step 7
+Notify Customer

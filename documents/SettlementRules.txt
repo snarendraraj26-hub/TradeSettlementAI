@@ -1,0 +1,15 @@
+Settlement Rules
+
+1. TeamA handles Equity and ETF trades from India.
+
+2. TeamB handles Bond and ETF trades from Europe.
+
+3. TeamC handles UK Equity and Derivative trades.
+
+4. TeamD handles USA Bond trades.
+
+5. Trades above 25,000 USD require verification.
+
+6. T+1 settlements receive highest priority.
+
+7. Failed settlements are escalated after two retries.

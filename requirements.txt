@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+fastapi
+uvicorn
+streamlit
+joblib
+python-dotenv
+langchain
+langchain-community
+langgraph
+chromadb
+sentence-transformers
+pypdf
+ollama

@@ -1,0 +1,53 @@
+Trade Settlement Process
+
+A trade settlement is the process of transferring securities from the seller to the buyer.
+
+Settlement Types
+
+T+1
+Trade settles next business day.
+
+T+2
+Trade settles after two business days.
+
+T+3
+Trade settles after three business days.
+
+Products
+
+Equity
+Represents ownership in a company.
+
+Bond
+Debt instrument issued by governments or companies.
+
+ETF
+Exchange Traded Fund.
+
+Derivative
+Financial contract based on another asset.
+
+Priorities
+
+High
+Requires immediate settlement.
+
+Medium
+Standard processing.
+
+Low
+Can be processed later.
+
+Countries
+
+India
+Germany
+France
+USA
+UK
+
+Settlement Owner
+
+The settlement owner is responsible for validating and completing settlement activities.
+
+Trade AI predicts the most appropriate owner based on historical trade patterns.
